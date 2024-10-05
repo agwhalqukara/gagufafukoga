@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://gagufafukoga.pages.dev/sitemap.xml
